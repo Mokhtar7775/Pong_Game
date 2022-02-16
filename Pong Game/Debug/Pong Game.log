@@ -1,0 +1,208 @@
+﻿  FinishedMessage.cpp
+  GameGuide.cpp
+  Menu.cpp
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\GameGuide.h(4,1): warning C4005: 'MAX_MAIN_MENU': macro redefinition
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Menu.h(4): message : see previous definition of 'MAX_MAIN_MENU'
+  Options.cpp
+  PauseMenu.cpp
+  Source.cpp
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Options.h(4,1): warning C4005: 'MAX_MAIN_MENU': macro redefinition
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Menu.h(4): message : see previous definition of 'MAX_MAIN_MENU'
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\GameGuide.h(4,1): warning C4005: 'MAX_MAIN_MENU': macro redefinition
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Options.h(4): message : see previous definition of 'MAX_MAIN_MENU'
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\FinishedMessage.h(4,1): warning C4005: 'MAX_MAIN_MENU': macro redefinition
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\GameGuide.h(4): message : see previous definition of 'MAX_MAIN_MENU'
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(54,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(78,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(82,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(105,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(54,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(78,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(82,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(105,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(283,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(284,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(290,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(295,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(301,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(307,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(314,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(320,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(327,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(332,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(333,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(341,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(342,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(348,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(353,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(359,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(365,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(372,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(378,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(385,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(390,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(391,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(417,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(418,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(446,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(447,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(528,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(572,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(574,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(576,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(987,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1053,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1103,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1104,25): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1177,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1184,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1192,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1199,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1209,50): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1402,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1443,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1453,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\Source.cpp(1628,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  TextBox.cpp
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(54,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(78,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(82,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\TextBox.h(105,21): warning C4018: '<': signed/unsigned mismatch
+  txtbox.cpp
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(54,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(78,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(82,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\3omranito\source\repos\Pong Game\Pong Game\txtbox.h(105,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...

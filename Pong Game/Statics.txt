@@ -1,0 +1,15 @@
+Sat Jun 13 00:16:25 2020
+Player 1        Player 2
+0               0
+          Draw !
+*************************** 
+Sat Jun 13 00:17:01 2020
+Player 1        Omran
+5               3
+    Player 1 Won !
+***************************
+Sat Jun 13 00:18:11 2020
+Player 1        Omran
+4               2
+    Player 1 Won !
+***************************
